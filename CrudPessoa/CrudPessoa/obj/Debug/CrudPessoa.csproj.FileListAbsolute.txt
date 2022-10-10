@@ -1,0 +1,10 @@
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\bin\Debug\CrudPessoa.exe.config
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\bin\Debug\CrudPessoa.exe
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\bin\Debug\CrudPessoa.pdb
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.csproj.AssemblyReference.cache
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.Form1.resources
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.Properties.Resources.resources
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.csproj.GenerateResource.cache
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.csproj.CoreCompileInputs.cache
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.exe
+C:\Users\L E O\source\repos\CrudPessoa\CrudPessoa\obj\Debug\CrudPessoa.pdb
